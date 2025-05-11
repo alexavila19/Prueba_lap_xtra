@@ -16,9 +16,20 @@ npm install
 ```js
 npm run dev
 ```
+Ademas del npm es necesario instalar esta version especifica de react-router-dom
+Instalación de React Router DOM
 
-- Esto lo que hace es instalar las dependencias necesarias.
+Para utilizar  React Router DOM segir los siguientes pasos:
 
-# Y listo tu evaluacion extraordinaria ha comenzado
+1. Abre tu terminal, asegurate de que te encuentras en el directorio raíz de tu proyecto de React
 
-## Exito y esperemos termines.
+2. Ejecuta el siguiente comando utilizando npm:
+
+        npm install react-router-dom@6
+        ```
+3. Esperar a que la instalación se complete, npm descargara e instalarán el paquete `react-router-dom` y sus dependencias en tu proyecto, (OJO: DEBE SER ESA VERSION DE ROUTER-DOM NO ASEGURO QUE FUNCIONE CON OTRA)
+
+4.  **!!!Listo!!!**
+
+5.  pd:ojala esta vez funcione llevo como 20 proyectos no es mentira ;)
+
